@@ -1,31 +1,31 @@
 head:
     # 网站图标 多个随机
-    favicon: "https://q1.qlogo.cn/headimg_dl?bs=1106996185&dst_uin=1106996185&spec=100&url_enc=0&referer=bu_interface&term_type=PC"
+    favicon: "http://ol04rqqp7.bkt.clouddn.com/avatar.png"
 
 
 img:
     # 头像 多个随机
-    avatar: "https://q1.qlogo.cn/headimg_dl?bs=1106996185&dst_uin=1106996185&spec=100&url_enc=0&referer=bu_interface&term_type=PC"
+    avatar: "http://ol04rqqp7.bkt.clouddn.com/avatar.png"
     # 首页左边图片 多个随机
     left_pic: 
-      - "/img/home.jpg"
+      - "http://ol04rqqp7.bkt.clouddn.com/qiji.jpg"
     # 首页右边图片 多个随机 (移动端不显示)
     right_pic:
-      - "/img/right_pic.jpg"
+      - "http://ol04rqqp7.bkt.clouddn.com/me.png"
     # 默认文章背景 多个随机
     post_thumbnail: 
-      - "/img/二次元/下雨.jpg"
+      - "http://ol04rqqp7.bkt.clouddn.com/thumbnail.jpg"
     # 侧边抽屉头部图片 多个随机
     drawerHeaderBg:
-      - "/img/drawerCover.jpg"
+      - "http://ol04rqqp7.bkt.clouddn.com/thumbnail.jpg"
 
 uiux:
     #标语 多个随机
-    slogan: "拼命想抓住一些东西！"
+    slogan: "Fightだよ!"
     #主色 多个随机
     defaultPrimaryColor: "blue"
     #强调色 多个随机
-    defaultAccentColor: "red"
+    defaultAccentColor: "blue"
 
 #评论 (定义多个 就会显示多个评论框)
 comment:
@@ -90,7 +90,7 @@ Drawer:
           #站外链接
           type: link
           #链接
-          href: https://github.com/EYHN
+          href: https://github.com/xhonokax
           #图标
           icon: 
             #类型: svg (推荐 可以控制颜色)
@@ -105,7 +105,7 @@ Drawer:
           #站外链接
           type: link
           #链接
-          href: http://wpa.qq.com/msgrd?v=3&uin=1106996185&site=qq&menu=yes
+          href: http://wpa.qq.com/msgrd?v=3&uin=1332388610&site=qq&menu=yes
           #图标
           icon: 
             type: svg
@@ -141,10 +141,18 @@ homeToolBar:
 footer:
   # 底部中间(移动端有所不同)  多个随机
   -
-    "Copyright © 2016 - 2017 EYHN"
+    "Copyright © 2018 xHonokax"
   # 底部右间(移动端有所不同)  多个随机
   -
     -
-      拼命想抓住一些东西！
+      6 年間、共に歩んでくれたあなたへ。
     -
-      带你装逼带你飞！
+      （· 8 ·）
+    -
+       niconiconi~
+    -
+       凛凛凛个鳖
+    -
+       Fightだよ!
+    -
+       Fightだよじゃねつの！
